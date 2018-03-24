@@ -9,6 +9,7 @@
 #include "check.h"
 #include "map.h"
 #include "transform.h"
+#include "resolve.h"
 
 static char *start_symbol = NULL; /* to override the default start symbol */
 pRule rule_base;
